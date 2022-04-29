@@ -1,6 +1,10 @@
 # niquet-io
 Design and feature development, and front-end engineering for my personal website 🦈
 
+<div text-align="center">
+    <img src="https://media.giphy.com/media/cCvWHbfVdn2bm/giphy.gif" width="800px" style="margin: 24px 0; border-radius: 8px;">
+</div>
+
 ## Project structure
 
 ```js
